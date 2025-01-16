@@ -1,11 +1,11 @@
 {
   "name": "istodaygoodforproduction",
   "version": "1.0.0",
-  "description": "",
+  "description": "Check if today is a good day to push production",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Jordan KS Yu",
   "license": "ISC"
 }
